@@ -1,0 +1,47 @@
+_repo: Daisy-Ashford--Her-Book_25658
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+covers:
+- cover_type: archival
+  image_path: 25658-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Ashford, Angela
+    gutenberg_agent_id: '31489'
+    url: http://www.gutenberg.org/2009/agents/31489
+  - agent_name: Ashford, Daisy
+    aliases:
+    - Devlin, Daisy
+    - Ashford, Margaret Mary Julia
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '9908'
+    url: http://www.gutenberg.org/2009/agents/9908
+    wikipedia: http://en.wikipedia.org/wiki/Daisy_Ashford
+description: ''
+gutenberg_issued: '2008-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: 'Preface by Irvin S. Cobb -- By Daisy Ashford: Author''s foreword.
+  A short story of love and marriage. The true history of Leslie Woodcock. Where love
+  lies deepest. The hangman''s daughter -- By Angela Ashford: The jealous governes;
+  or, The granted wish.'
+title: 'Daisy Ashford: Her Book'
+url: http://www.gutenberg.org/ebooks/25658
